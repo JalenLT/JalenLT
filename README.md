@@ -1,15 +1,34 @@
-I’m a full-stack developer working as an IT Analyst/Programmer, always tinkering with new tech and building things that (hopefully) make people’s lives a little easier.
+# Hi, I'm Stefan
 
-Right now, I’m diving into Python and leveling up my cloud skills with AWS certifications. Most of my day-to-day is spent in JavaScript, TypeScript, PHP, Laravel, and React. If it’s web development or AI, I’m probably interested!
+**Full-stack Developer | IT Analyst/Programmer | Laravel · React · TypeScript**
 
-## What I’m Building
-
-Check out [Story Builder](https://github.com/JalenLT/StoryBuilder)—it’s my passion project and the one I’m most proud of (even though it’s still a work in progress). I’m pushing myself to make it as polished and professional as possible.
-
-I recently got pretty deep into AI and web dev together, which led me to build a Retrieval-Augmented Generation system using Laravel, JS, Milvus, and Gemini. That’s been a fun (and challenging) journey!
-
-Find me on [LinkedIn](https://www.linkedin.com/in/stefan-seunarine-199618201/). Always happy to meet fellow devs, chat about tech, or brainstorm ideas.
+I’m a full-stack developer and IT Analyst/Programmer who enjoys learning new technologies and building tools that make people’s lives a little easier.  
+Most of my work involves **JavaScript, TypeScript, PHP, Laravel, and React**, and lately I’ve been spending more time with **Python** and **cloud development using AWS**.
 
 ---
 
-> “The best time to start was 10 years ago, the second best time is now.”
+## What I’m Working On
+
+### [Story Builder](https://github.com/JalenLT/StoryBuilder)
+A graph-based story creation platform built with Laravel, Inertia, React Flow, and TypeScript. It’s my main passion project and a long-term effort to design something professional, maintainable, and enjoyable to use.
+
+### Retrieval-Augmented Generation System
+I’ve also been exploring AI integration within web apps, building a RAG system using **Laravel, JavaScript, Milvus, and Gemini**. It’s been a rewarding deep dive into combining backend logic, embeddings, and modern AI models.
+
+---
+
+## Currently
+- Learning Python more deeply and building small projects to practice  
+- Preparing for the **AWS Developer Associate** certification  
+- Refining developer experience and code quality across my repositories  
+- Researching how AI assistants can be integrated into Laravel systems  
+
+---
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/stefan-seunarine-199618201/)  
+- [GitHub](https://github.com/JalenLT)  
+
+---
+
+> “The best time to start was ten years ago. The second best time is now.”
