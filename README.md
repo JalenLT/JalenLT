@@ -1,16 +1,15 @@
-## Hi there 👋
+I’m a full-stack developer working as an IT Analyst/Programmer, always tinkering with new tech and building things that (hopefully) make people’s lives a little easier.
 
-<!--
-**JalenLT/JalenLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Right now, I’m diving into Python and leveling up my cloud skills with AWS certifications. Most of my day-to-day is spent in JavaScript, TypeScript, PHP, Laravel, and React. If it’s web development or AI, I’m probably interested!
 
-Here are some ideas to get you started:
+## What I’m Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out [Story Builder](https://github.com/JalenLT/StoryBuilder)—it’s my passion project and the one I’m most proud of (even though it’s still a work in progress). I’m pushing myself to make it as polished and professional as possible.
+
+I recently got pretty deep into AI and web dev together, which led me to build a Retrieval-Augmented Generation system using Laravel, JS, Milvus, and Gemini. That’s been a fun (and challenging) journey!
+
+Find me on [LinkedIn](https://www.linkedin.com/in/stefan-seunarine-199618201/). Always happy to meet fellow devs, chat about tech, or brainstorm ideas.
+
+---
+
+> “The best time to start was 10 years ago, the second best time is now.”
